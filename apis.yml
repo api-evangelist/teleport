@@ -1,0 +1,32 @@
+aid: teleport
+name: Teleport
+description: "Quality of Life Data"
+url: https://developers.teleport.org/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: Teleport
+    description: "Quality of Life Data"
+    humanURL: https://developers.teleport.org/
+    baseURL: https://developers.teleport.org/
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://developers.teleport.org/
+common:
+  - type: Website
+    url: https://developers.teleport.org/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
