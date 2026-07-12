@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developers.teleport.org/
 common:
+  - type: DomainSecurity
+    url: security/teleport-domain-security.yml
   - type: Website
     url: https://developers.teleport.org/
   - type: PublicAPIsListing
